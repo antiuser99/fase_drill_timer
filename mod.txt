@@ -1,0 +1,6 @@
+{
+	"name": "drill_timer",
+	"author": "TheOnlyMan",
+	"hooks": 
+			{"hook_id": "lib/unit/props/timergui","script_path": "crew.lua"}
+}
